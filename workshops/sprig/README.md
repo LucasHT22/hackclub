@@ -38,8 +38,10 @@ For that you and your club don't lose your files, we use an account system, here
 
 1. Click on the "Log in" button at the top right of the page
 <img width="500" alt="Screen Shot 2023-03-03 at 6 35 57 PM" src="https://cloud-c0fezx07u-hack-club-bot.vercel.app/0image.png">
+
 2. Fill in the field with an email and then click on the "Send code" button
 <img width="500" alt="Screen Shot 2023-03-03 at 6 40 41 PM" src="https://cloud-5tajrvzec-hack-club-bot.vercel.app/0image.png">
+
 3. You will receive an email like this, then just put this code in the field "Code:"
 <img width="500" alt="Screen Shot 2023-03-03 at 6 46 27 PM" src="https://cloud-3e970nukr-hack-club-bot.vercel.app/0image.png">
 
