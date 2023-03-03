@@ -32,9 +32,9 @@ Here are a few games that meet the criteria:
 - [Penguin Slide](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/penguin_slide.js)
 - [Nomis](https://editor.sprig.hackclub.com/?file=https://raw.githubusercontent.com/hackclub/sprig/main/games/nomis.js)
 
-## Account
+## Account (2 minutes)
 
-For that you don't lose your files, we use an account system, here is the step by step:
+For that you and your club don't lose your files, we use an account system, here is the step by step:
 
 1. Click on the "Log in" button at the top right of the page
 <img width="500" alt="Screen Shot 2023-03-03 at 6 35 57 PM" src="https://cloud-c0fezx07u-hack-club-bot.vercel.app/0image.png">
