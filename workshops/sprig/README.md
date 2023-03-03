@@ -52,6 +52,7 @@ Open up the toolkit and quickly describe the different things you can do. The po
 Recent files are available in the "Your Games" page. They will always be saved in your account. **The most reliable way to save is to downlad the `js` file**.
 
 To save, hit the automatically generated name:
+
 <img width="500" alt="Screen Shot 2023-03-03 at 6 56 26 PM" src="https://cloud-n9033q1na-hack-club-bot.vercel.app/0image.png"> 
 
 and add a name like so:
