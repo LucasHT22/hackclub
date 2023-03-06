@@ -46,7 +46,7 @@ setLegend([player, bitmap`...`]);
 
 `setLegend` allows us to set up a sprite for our character. We can click on `bitmap` to open up the pixel editor and draw an image for our sprite.
 
-![Bitmap editor](https://cloud-1o8sp2hji-hack-club-bot.vercel.app/020230306_144744.gif)
+![Bitmap editor](https://cloud-bhbu1ddry-hack-club-bot.vercel.app/020230306_175717.gif)
 
 The bitmap is stored as a string. To take a look at it, click on the little arrow next to the line number. You can minimize it by clicking the area again.
 
